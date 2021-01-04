@@ -5,6 +5,7 @@ namespace TestPackage
     {
         public TestClass()
         {
+        	Debug.Log("Test log");
         }
     }
 }
