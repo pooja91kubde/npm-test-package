@@ -7,5 +7,10 @@ namespace TestPackage
         {
         	//Debug.Log("Test log");
         }
+
+        public int AddNumbers(int x, int y)
+        {
+        	return (x+y);
+        }
     }
 }
