@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pooja91kubde/npm-test-package.git"
+    "url": "git+https://github.com/pooja91kubde/npm-test-package.git",
+    "private": true
   },
   "files": [
     "index.js",
